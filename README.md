@@ -13,6 +13,6 @@ This exercise approaches mainly the following concepts:
 
 The following limitations apply: 
 
-- [X] The calculator itself is limited to basic arithmetic operations;
-- [X] Floating point results are bound to 6 decimals; and
-- [X] No granular expression validity checks are available. 
+- The calculator itself is limited to basic arithmetic operations;
+- Floating point results are bound to 6 decimals; and
+- No granular expression validity checks are available. 
